@@ -1,0 +1,2 @@
+BG_COLOUR = "#2b2b28"
+NEON_GREEN = "#11ed4b"
